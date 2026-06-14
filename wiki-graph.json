@@ -1,475 +1,182 @@
 {
-  "meta": {
-    "generated_at": "2026-06-14T16:45:10.704376",
-    "repo": "Fc-applications",
-    "version": "1.0",
-    "total_files": 12
-  },
-  "by_directory": {
-    "Fc-applications": [
-      "STATUS.md",
-      "README.md"
-    ],
-    "02-elderly-care": [
-      "02-elderly-care/用 Fc 看老年照护.md"
-    ],
-    "01-domestic-labor": [
-      "01-domestic-labor/用 Fc 看家务劳动.md"
-    ],
-    "08-gender-wage-gap": [
-      "08-gender-wage-gap/用 Fc 看性别工资差距.md"
-    ],
-    "04-rural-land-rights": [
-      "04-rural-land-rights/用 Fc 看农村女性土地权.md"
-    ],
-    "03-divorce-cooling-off": [
-      "03-divorce-cooling-off/用 Fc 看离婚冷静期.md"
-    ],
-    "09-inheritance": [
-      "09-inheritance/用 Fc 看遗产继承.md"
-    ],
-    "10-workplace-harassment": [
-      "10-workplace-harassment/用 Fc 看职场性骚扰.md"
-    ],
-    "05-deepfake-pornography": [
-      "05-deepfake-pornography/用 Fc 看深度伪造色情.md"
-    ],
-    "07-cyber-violence": [
-      "07-cyber-violence/用 Fc 看网络暴力.md"
-    ],
-    "06-child-marriage": [
-      "06-child-marriage/用 Fc 看童婚.md"
-    ]
-  },
-  "by_axiom": {
-    "A1": [
-      "STATUS.md",
-      "02-elderly-care/用 Fc 看老年照护.md",
-      "03-divorce-cooling-off/用 Fc 看离婚冷静期.md",
-      "05-deepfake-pornography/用 Fc 看深度伪造色情.md",
-      "07-cyber-violence/用 Fc 看网络暴力.md",
-      "06-child-marriage/用 Fc 看童婚.md"
-    ],
-    "A3": [
-      "STATUS.md",
-      "05-deepfake-pornography/用 Fc 看深度伪造色情.md",
-      "07-cyber-violence/用 Fc 看网络暴力.md"
-    ],
-    "A4": [
-      "STATUS.md",
-      "02-elderly-care/用 Fc 看老年照护.md",
-      "01-domestic-labor/用 Fc 看家务劳动.md",
-      "08-gender-wage-gap/用 Fc 看性别工资差距.md",
-      "04-rural-land-rights/用 Fc 看农村女性土地权.md",
-      "03-divorce-cooling-off/用 Fc 看离婚冷静期.md",
-      "09-inheritance/用 Fc 看遗产继承.md",
-      "10-workplace-harassment/用 Fc 看职场性骚扰.md",
-      "05-deepfake-pornography/用 Fc 看深度伪造色情.md",
-      "07-cyber-violence/用 Fc 看网络暴力.md",
-      "06-child-marriage/用 Fc 看童婚.md"
-    ],
-    "A5": [
-      "STATUS.md",
-      "02-elderly-care/用 Fc 看老年照护.md",
-      "01-domestic-labor/用 Fc 看家务劳动.md",
-      "08-gender-wage-gap/用 Fc 看性别工资差距.md",
-      "04-rural-land-rights/用 Fc 看农村女性土地权.md",
-      "03-divorce-cooling-off/用 Fc 看离婚冷静期.md",
-      "09-inheritance/用 Fc 看遗产继承.md",
-      "10-workplace-harassment/用 Fc 看职场性骚扰.md",
-      "05-deepfake-pornography/用 Fc 看深度伪造色情.md",
-      "07-cyber-violence/用 Fc 看网络暴力.md",
-      "06-child-marriage/用 Fc 看童婚.md"
-    ],
-    "A7": [
-      "STATUS.md",
-      "02-elderly-care/用 Fc 看老年照护.md",
-      "01-domestic-labor/用 Fc 看家务劳动.md",
-      "08-gender-wage-gap/用 Fc 看性别工资差距.md",
-      "04-rural-land-rights/用 Fc 看农村女性土地权.md",
-      "03-divorce-cooling-off/用 Fc 看离婚冷静期.md",
-      "09-inheritance/用 Fc 看遗产继承.md",
-      "10-workplace-harassment/用 Fc 看职场性骚扰.md",
-      "05-deepfake-pornography/用 Fc 看深度伪造色情.md",
-      "07-cyber-violence/用 Fc 看网络暴力.md",
-      "06-child-marriage/用 Fc 看童婚.md"
-    ],
-    "A8": [
-      "STATUS.md",
-      "02-elderly-care/用 Fc 看老年照护.md",
-      "01-domestic-labor/用 Fc 看家务劳动.md",
-      "08-gender-wage-gap/用 Fc 看性别工资差距.md",
-      "04-rural-land-rights/用 Fc 看农村女性土地权.md",
-      "09-inheritance/用 Fc 看遗产继承.md",
-      "10-workplace-harassment/用 Fc 看职场性骚扰.md",
-      "06-child-marriage/用 Fc 看童婚.md"
-    ],
-    "F8": [
-      "STATUS.md",
-      "02-elderly-care/用 Fc 看老年照护.md",
-      "01-domestic-labor/用 Fc 看家务劳动.md",
-      "08-gender-wage-gap/用 Fc 看性别工资差距.md",
-      "04-rural-land-rights/用 Fc 看农村女性土地权.md",
-      "03-divorce-cooling-off/用 Fc 看离婚冷静期.md",
-      "09-inheritance/用 Fc 看遗产继承.md",
-      "10-workplace-harassment/用 Fc 看职场性骚扰.md",
-      "05-deepfake-pornography/用 Fc 看深度伪造色情.md",
-      "07-cyber-violence/用 Fc 看网络暴力.md",
-      "06-child-marriage/用 Fc 看童婚.md"
-    ],
-    "F1": [
-      "02-elderly-care/用 Fc 看老年照护.md",
-      "01-domestic-labor/用 Fc 看家务劳动.md",
-      "08-gender-wage-gap/用 Fc 看性别工资差距.md",
-      "04-rural-land-rights/用 Fc 看农村女性土地权.md",
-      "03-divorce-cooling-off/用 Fc 看离婚冷静期.md",
-      "09-inheritance/用 Fc 看遗产继承.md",
-      "10-workplace-harassment/用 Fc 看职场性骚扰.md",
-      "05-deepfake-pornography/用 Fc 看深度伪造色情.md",
-      "07-cyber-violence/用 Fc 看网络暴力.md",
-      "06-child-marriage/用 Fc 看童婚.md"
-    ],
-    "F2": [
-      "02-elderly-care/用 Fc 看老年照护.md",
-      "01-domestic-labor/用 Fc 看家务劳动.md",
-      "08-gender-wage-gap/用 Fc 看性别工资差距.md",
-      "04-rural-land-rights/用 Fc 看农村女性土地权.md",
-      "03-divorce-cooling-off/用 Fc 看离婚冷静期.md",
-      "09-inheritance/用 Fc 看遗产继承.md",
-      "10-workplace-harassment/用 Fc 看职场性骚扰.md",
-      "05-deepfake-pornography/用 Fc 看深度伪造色情.md",
-      "07-cyber-violence/用 Fc 看网络暴力.md",
-      "06-child-marriage/用 Fc 看童婚.md"
-    ],
-    "F3": [
-      "02-elderly-care/用 Fc 看老年照护.md",
-      "03-divorce-cooling-off/用 Fc 看离婚冷静期.md",
-      "10-workplace-harassment/用 Fc 看职场性骚扰.md",
-      "05-deepfake-pornography/用 Fc 看深度伪造色情.md",
-      "07-cyber-violence/用 Fc 看网络暴力.md",
-      "06-child-marriage/用 Fc 看童婚.md"
-    ],
-    "F5": [
-      "02-elderly-care/用 Fc 看老年照护.md",
-      "08-gender-wage-gap/用 Fc 看性别工资差距.md",
-      "04-rural-land-rights/用 Fc 看农村女性土地权.md",
-      "03-divorce-cooling-off/用 Fc 看离婚冷静期.md",
-      "09-inheritance/用 Fc 看遗产继承.md",
-      "10-workplace-harassment/用 Fc 看职场性骚扰.md",
-      "05-deepfake-pornography/用 Fc 看深度伪造色情.md",
-      "07-cyber-violence/用 Fc 看网络暴力.md",
-      "06-child-marriage/用 Fc 看童婚.md"
-    ],
-    "F7": [
-      "02-elderly-care/用 Fc 看老年照护.md",
-      "01-domestic-labor/用 Fc 看家务劳动.md",
-      "08-gender-wage-gap/用 Fc 看性别工资差距.md",
-      "04-rural-land-rights/用 Fc 看农村女性土地权.md",
-      "03-divorce-cooling-off/用 Fc 看离婚冷静期.md",
-      "09-inheritance/用 Fc 看遗产继承.md",
-      "10-workplace-harassment/用 Fc 看职场性骚扰.md",
-      "05-deepfake-pornography/用 Fc 看深度伪造色情.md",
-      "07-cyber-violence/用 Fc 看网络暴力.md",
-      "06-child-marriage/用 Fc 看童婚.md"
-    ],
-    "F9": [
-      "02-elderly-care/用 Fc 看老年照护.md",
-      "01-domestic-labor/用 Fc 看家务劳动.md",
-      "08-gender-wage-gap/用 Fc 看性别工资差距.md",
-      "04-rural-land-rights/用 Fc 看农村女性土地权.md",
-      "03-divorce-cooling-off/用 Fc 看离婚冷静期.md",
-      "09-inheritance/用 Fc 看遗产继承.md",
-      "10-workplace-harassment/用 Fc 看职场性骚扰.md",
-      "05-deepfake-pornography/用 Fc 看深度伪造色情.md",
-      "07-cyber-violence/用 Fc 看网络暴力.md",
-      "06-child-marriage/用 Fc 看童婚.md"
-    ],
-    "A2": [
-      "01-domestic-labor/用 Fc 看家务劳动.md",
-      "08-gender-wage-gap/用 Fc 看性别工资差距.md",
-      "09-inheritance/用 Fc 看遗产继承.md",
-      "07-cyber-violence/用 Fc 看网络暴力.md"
-    ],
-    "F4": [
-      "01-domestic-labor/用 Fc 看家务劳动.md",
-      "08-gender-wage-gap/用 Fc 看性别工资差距.md"
-    ],
-    "A6": [
-      "03-divorce-cooling-off/用 Fc 看离婚冷静期.md",
-      "09-inheritance/用 Fc 看遗产继承.md",
-      "06-child-marriage/用 Fc 看童婚.md"
-    ]
-  },
-  "by_topic": {
-    "domestic-labor": [
-      "STATUS.md",
-      "README.md",
-      "02-elderly-care/用 Fc 看老年照护.md",
-      "01-domestic-labor/用 Fc 看家务劳动.md",
-      "09-inheritance/用 Fc 看遗产继承.md"
-    ],
-    "elderly-care": [
-      "08-gender-wage-gap/用 Fc 看性别工资差距.md",
-      "03-divorce-cooling-off/用 Fc 看离婚冷静期.md",
-      "06-child-marriage/用 Fc 看童婚.md"
-    ],
-    "divorce-cooling-off": [
-      "04-rural-land-rights/用 Fc 看农村女性土地权.md"
-    ],
-    "gender-wage-gap": [
-      "10-workplace-harassment/用 Fc 看职场性骚扰.md"
-    ],
-    "deepfake-pornography": [
-      "05-deepfake-pornography/用 Fc 看深度伪造色情.md"
-    ],
-    "cyber-violence": [
-      "07-cyber-violence/用 Fc 看网络暴力.md"
-    ]
-  },
-  "files": {
-    "STATUS.md": {
-      "path": "STATUS.md",
-      "directory": "Fc-applications",
-      "size": 5750,
+  "version": "v1.2-DRAFT",
+  "last_commit": "fc768ae",
+  "cases": [
+    {
+      "id": "01-domestic-labor",
+      "title": "家务劳动",
       "axioms": [
-        "A1",
-        "A3",
+        "A2",
         "A4",
         "A5",
         "A7",
         "A8",
+        "F1",
+        "F2",
+        "F4",
+        "F7",
+        "F9"
+      ],
+      "core_concept": "NEG-EXT",
+      "empirical_grade": "S",
+      "status": "DRAFT",
+      "sorries": 0,
+      "key_increment": "待提取"
+    },
+    {
+      "id": "02-elderly-care",
+      "title": "老年照护",
+      "axioms": [
+        "A1",
+        "A4",
+        "A5",
+        "A7"
+      ],
+      "core_concept": "A4-终末形态",
+      "empirical_grade": "B",
+      "status": "DRAFT",
+      "sorries": 0,
+      "key_increment": "待提取"
+    },
+    {
+      "id": "03-divorce-cooling-off",
+      "title": "离婚冷静期",
+      "axioms": [
+        "A1",
+        "A4",
+        "A5",
+        "A6",
+        "A7",
+        "F1",
+        "F2"
+      ],
+      "core_concept": "A7-Capture",
+      "empirical_grade": "S",
+      "status": "DRAFT",
+      "sorries": 0,
+      "key_increment": "待提取"
+    },
+    {
+      "id": "04-rural-land-rights",
+      "title": "农村女性土地权",
+      "axioms": [
+        "A4",
+        "A5",
+        "A7",
+        "A8"
+      ],
+      "core_concept": "F7-土地依附",
+      "empirical_grade": "B",
+      "status": "DRAFT",
+      "sorries": 0,
+      "key_increment": "待提取"
+    },
+    {
+      "id": "05-deepfake-pornography",
+      "title": "深度伪造色情",
+      "axioms": [
+        "A1",
+        "A3",
+        "A5",
+        "A7"
+      ],
+      "core_concept": "A3-γ",
+      "empirical_grade": "C",
+      "status": "DRAFT",
+      "sorries": 0,
+      "key_increment": "待提取"
+    },
+    {
+      "id": "06-child-marriage",
+      "title": "童婚",
+      "axioms": [
+        "A1",
+        "A4",
+        "A5",
+        "A6",
+        "A7"
+      ],
+      "core_concept": "A7-Age-Gap",
+      "empirical_grade": "B",
+      "status": "DRAFT",
+      "sorries": 0,
+      "key_increment": "待提取"
+    },
+    {
+      "id": "07-cyber-violence",
+      "title": "网络暴力",
+      "axioms": [
+        "A1",
+        "A2",
+        "A3",
+        "A4",
+        "A5",
+        "A7"
+      ],
+      "core_concept": "A5-羞辱闭环",
+      "empirical_grade": "C",
+      "status": "DRAFT",
+      "sorries": 0,
+      "key_increment": "待提取"
+    },
+    {
+      "id": "08-gender-wage-gap",
+      "title": "性别工资差距",
+      "axioms": [
+        "A2",
+        "A4",
+        "A5",
+        "A7"
+      ],
+      "core_concept": "A2-效用化约",
+      "empirical_grade": "A",
+      "status": "DRAFT",
+      "sorries": 0,
+      "key_increment": "待提取"
+    },
+    {
+      "id": "09-inheritance",
+      "title": "遗产继承",
+      "axioms": [
+        "A2",
+        "A4",
+        "A5",
+        "A6",
+        "A7",
+        "F2",
+        "F5",
         "F8"
       ],
-      "topic": "domestic-labor",
-      "tldr": "",
-      "frontmatter": null
+      "core_concept": "A4-代际转移",
+      "empirical_grade": "B",
+      "status": "DRAFT",
+      "sorries": 0,
+      "key_increment": "待提取"
     },
-    "README.md": {
-      "path": "README.md",
-      "directory": "Fc-applications",
-      "size": 3184,
-      "axioms": [],
-      "topic": "domestic-labor",
-      "tldr": "",
-      "frontmatter": null
-    },
-    "02-elderly-care/用 Fc 看老年照护.md": {
-      "path": "02-elderly-care/用 Fc 看老年照护.md",
-      "directory": "02-elderly-care",
-      "size": 11155,
-      "axioms": [
-        "A1",
-        "A4",
-        "A5",
-        "A7",
-        "A8",
-        "F1",
-        "F2",
-        "F3",
-        "F5",
-        "F7",
-        "F8",
-        "F9"
-      ],
-      "topic": "domestic-labor",
-      "tldr": "",
-      "frontmatter": null
-    },
-    "01-domestic-labor/用 Fc 看家务劳动.md": {
-      "path": "01-domestic-labor/用 Fc 看家务劳动.md",
-      "directory": "01-domestic-labor",
-      "size": 10145,
-      "axioms": [
-        "A2",
-        "A4",
-        "A5",
-        "A7",
-        "A8",
-        "F1",
-        "F2",
-        "F4",
-        "F7",
-        "F8",
-        "F9"
-      ],
-      "topic": "domestic-labor",
-      "tldr": "",
-      "frontmatter": null
-    },
-    "08-gender-wage-gap/用 Fc 看性别工资差距.md": {
-      "path": "08-gender-wage-gap/用 Fc 看性别工资差距.md",
-      "directory": "08-gender-wage-gap",
-      "size": 10848,
-      "axioms": [
-        "A2",
-        "A4",
-        "A5",
-        "A7",
-        "A8",
-        "F1",
-        "F2",
-        "F4",
-        "F5",
-        "F7",
-        "F8",
-        "F9"
-      ],
-      "topic": "elderly-care",
-      "tldr": "",
-      "frontmatter": null
-    },
-    "04-rural-land-rights/用 Fc 看农村女性土地权.md": {
-      "path": "04-rural-land-rights/用 Fc 看农村女性土地权.md",
-      "directory": "04-rural-land-rights",
-      "size": 11019,
+    {
+      "id": "10-workplace-harassment",
+      "title": "职场性骚扰",
       "axioms": [
         "A4",
         "A5",
-        "A7",
-        "A8",
-        "F1",
-        "F2",
-        "F5",
-        "F7",
-        "F8",
-        "F9"
+        "A7"
       ],
-      "topic": "divorce-cooling-off",
-      "tldr": "",
-      "frontmatter": null
-    },
-    "03-divorce-cooling-off/用 Fc 看离婚冷静期.md": {
-      "path": "03-divorce-cooling-off/用 Fc 看离婚冷静期.md",
-      "directory": "03-divorce-cooling-off",
-      "size": 10605,
-      "axioms": [
-        "A1",
-        "A4",
-        "A5",
-        "A6",
-        "A7",
-        "F1",
-        "F2",
-        "F3",
-        "F5",
-        "F7",
-        "F8",
-        "F9"
-      ],
-      "topic": "elderly-care",
-      "tldr": "",
-      "frontmatter": null
-    },
-    "09-inheritance/用 Fc 看遗产继承.md": {
-      "path": "09-inheritance/用 Fc 看遗产继承.md",
-      "directory": "09-inheritance",
-      "size": 10169,
-      "axioms": [
-        "A2",
-        "A4",
-        "A5",
-        "A6",
-        "A7",
-        "A8",
-        "F1",
-        "F2",
-        "F5",
-        "F7",
-        "F8",
-        "F9"
-      ],
-      "topic": "domestic-labor",
-      "tldr": "",
-      "frontmatter": null
-    },
-    "10-workplace-harassment/用 Fc 看职场性骚扰.md": {
-      "path": "10-workplace-harassment/用 Fc 看职场性骚扰.md",
-      "directory": "10-workplace-harassment",
-      "size": 11026,
-      "axioms": [
-        "A4",
-        "A5",
-        "A7",
-        "A8",
-        "F1",
-        "F2",
-        "F3",
-        "F5",
-        "F7",
-        "F8",
-        "F9"
-      ],
-      "topic": "gender-wage-gap",
-      "tldr": "",
-      "frontmatter": null
-    },
-    "05-deepfake-pornography/用 Fc 看深度伪造色情.md": {
-      "path": "05-deepfake-pornography/用 Fc 看深度伪造色情.md",
-      "directory": "05-deepfake-pornography",
-      "size": 11501,
-      "axioms": [
-        "A1",
-        "A3",
-        "A4",
-        "A5",
-        "A7",
-        "F1",
-        "F2",
-        "F3",
-        "F5",
-        "F7",
-        "F8",
-        "F9"
-      ],
-      "topic": "deepfake-pornography",
-      "tldr": "",
-      "frontmatter": null
-    },
-    "07-cyber-violence/用 Fc 看网络暴力.md": {
-      "path": "07-cyber-violence/用 Fc 看网络暴力.md",
-      "directory": "07-cyber-violence",
-      "size": 10765,
-      "axioms": [
-        "A1",
-        "A2",
-        "A3",
-        "A4",
-        "A5",
-        "A7",
-        "F1",
-        "F2",
-        "F3",
-        "F5",
-        "F7",
-        "F8",
-        "F9"
-      ],
-      "topic": "cyber-violence",
-      "tldr": "",
-      "frontmatter": null
-    },
-    "06-child-marriage/用 Fc 看童婚.md": {
-      "path": "06-child-marriage/用 Fc 看童婚.md",
-      "directory": "06-child-marriage",
-      "size": 10220,
-      "axioms": [
-        "A1",
-        "A4",
-        "A5",
-        "A6",
-        "A7",
-        "A8",
-        "F1",
-        "F2",
-        "F3",
-        "F5",
-        "F7",
-        "F8",
-        "F9"
-      ],
-      "topic": "elderly-care",
-      "tldr": "",
-      "frontmatter": null
+      "core_concept": "A4-机构化延伸",
+      "empirical_grade": "A",
+      "status": "DRAFT",
+      "sorries": 0,
+      "key_increment": "待提取"
     }
+  ],
+  "cross_references": {
+    "A7-Capture": [
+      "03-divorce-cooling-off"
+    ],
+    "A3-γ": [
+      "05-deepfake-pornography"
+    ],
+    "A4-终末形态": [
+      "02-elderly-care"
+    ]
   }
 }
