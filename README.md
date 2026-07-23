@@ -10,19 +10,15 @@
 
 ```
 fc-applications/
-├── 01-domestic-labor/              # 家务劳动
-├── 02-elderly-care/                # 老年照护
-├── 03-divorce-cooling-off/         # 离婚冷静期
-├── 04-rural-land-rights/           # 农村女性土地权
-├── 05-deepfake-pornography/        # 深度伪造色情
-├── 06-child-marriage/              # 童婚
-├── 07-cyber-violence/              # 网络暴力
-├── 08-gender-wage-gap/             # 性别工资差距
-├── 09-inheritance/                 # 遗产继承
-├── 10-workplace-harassment/        # 职场性骚扰
+├── labor-economy/                  # 劳动与经济（原 01/04/08/09）
+├── family-marriage/                # 家庭与婚姻（原 02/03/06）
+├── violence-harm/                  # 暴力与侵害（原 05/07/10）
+├── text-audit/                     # 文本与思想审计（书籍/理论审计类）
 ├── README.md                       # 本文件
 └── STATUS.md                       # 全局审计状态
 ```
+
+（2026-07-21 结构重组：编号目录制 → 分类目录制，git mv 保留历史）
 
 ---
 
@@ -99,5 +95,5 @@ Fc 应用案例池（fc-applications DRAFT）
 
 ---
 
-*最后更新：2026-06-13*  
-*版本：v1.0-DRAFT*
+*最后更新：2026-07-21*  
+*版本：v1.3-DRAFT*

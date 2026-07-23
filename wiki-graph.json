@@ -1,5 +1,5 @@
 {
-  "version": "v1.2-DRAFT",
+  "version": "v1.3-DRAFT",
   "last_commit": "fc768ae",
   "cases": [
     {
@@ -21,7 +21,8 @@
       "empirical_grade": "S",
       "status": "DRAFT",
       "sorries": 0,
-      "key_increment": "待提取"
+      "key_increment": "待提取",
+      "path": "labor-economy/用 Fc 看家务劳动.md"
     },
     {
       "id": "02-elderly-care",
@@ -36,7 +37,8 @@
       "empirical_grade": "B",
       "status": "DRAFT",
       "sorries": 0,
-      "key_increment": "待提取"
+      "key_increment": "待提取",
+      "path": "family-marriage/用 Fc 看老年照护.md"
     },
     {
       "id": "03-divorce-cooling-off",
@@ -54,7 +56,8 @@
       "empirical_grade": "S",
       "status": "DRAFT",
       "sorries": 0,
-      "key_increment": "待提取"
+      "key_increment": "待提取",
+      "path": "family-marriage/用 Fc 看离婚冷静期.md"
     },
     {
       "id": "04-rural-land-rights",
@@ -69,7 +72,8 @@
       "empirical_grade": "B",
       "status": "DRAFT",
       "sorries": 0,
-      "key_increment": "待提取"
+      "key_increment": "待提取",
+      "path": "labor-economy/用 Fc 看农村女性土地权.md"
     },
     {
       "id": "05-deepfake-pornography",
@@ -84,7 +88,8 @@
       "empirical_grade": "C",
       "status": "DRAFT",
       "sorries": 0,
-      "key_increment": "待提取"
+      "key_increment": "待提取",
+      "path": "violence-harm/用 Fc 看深度伪造色情.md"
     },
     {
       "id": "06-child-marriage",
@@ -100,7 +105,8 @@
       "empirical_grade": "B",
       "status": "DRAFT",
       "sorries": 0,
-      "key_increment": "待提取"
+      "key_increment": "待提取",
+      "path": "family-marriage/用 Fc 看童婚.md"
     },
     {
       "id": "07-cyber-violence",
@@ -117,7 +123,8 @@
       "empirical_grade": "C",
       "status": "DRAFT",
       "sorries": 0,
-      "key_increment": "待提取"
+      "key_increment": "待提取",
+      "path": "violence-harm/用 Fc 看网络暴力.md"
     },
     {
       "id": "08-gender-wage-gap",
@@ -132,7 +139,8 @@
       "empirical_grade": "A",
       "status": "DRAFT",
       "sorries": 0,
-      "key_increment": "待提取"
+      "key_increment": "待提取",
+      "path": "labor-economy/用 Fc 看性别工资差距.md"
     },
     {
       "id": "09-inheritance",
@@ -151,7 +159,8 @@
       "empirical_grade": "B",
       "status": "DRAFT",
       "sorries": 0,
-      "key_increment": "待提取"
+      "key_increment": "待提取",
+      "path": "labor-economy/用 Fc 看遗产继承.md"
     },
     {
       "id": "10-workplace-harassment",
@@ -165,7 +174,8 @@
       "empirical_grade": "A",
       "status": "DRAFT",
       "sorries": 0,
-      "key_increment": "待提取"
+      "key_increment": "待提取",
+      "path": "violence-harm/用 Fc 看职场性骚扰.md"
     }
   ],
   "cross_references": {
@@ -178,5 +188,6 @@
     "A4-终末形态": [
       "02-elderly-care"
     ]
-  }
+  },
+  "structure_note": "2026-07-21 编号目录制→分类目录制；id 字段保留原编号 slug 作稳定标识，path 为当前路径"
 }
