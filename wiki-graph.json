@@ -1,5 +1,5 @@
 {
-  "version": "v1.3-DRAFT",
+  "version": "v1.4-DRAFT",
   "last_commit": "fc768ae",
   "cases": [
     {
@@ -176,6 +176,21 @@
       "sorries": 0,
       "key_increment": "待提取",
       "path": "violence-harm/用 Fc 看职场性骚扰.md"
+    },
+    {
+      "id": "text-audit-selfish-gene",
+      "title": "用 Fc 审计《自私的基因》",
+      "path": "text-audit/用 Fc 审计《自私的基因》.md",
+      "axioms": [
+        "A5",
+        "A6",
+        "F2"
+      ],
+      "core_concept": "锚点选择审计/后验当意志/命名不对称/类型-个体混淆",
+      "empirical_grade": "A（书内原文逐字+学术文献）",
+      "status": "DRAFT",
+      "sorries": 2,
+      "key_increment": "10 攻击点全成立（9 成立+1 边界声明）；⚑9/⚑10 双节点对抗测试通过（2026-07-21）；输入完整性事件登记（GATE-0 修正案候选）"
     }
   ],
   "cross_references": {
